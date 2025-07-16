@@ -1,17 +1,17 @@
-#### Design and Analysis of H∞ and μ-Synthesis-Based Attitude Controllers for an Underactuated Quadrotor
+### Design and Analysis of H∞ and μ-Synthesis-Based Attitude Controllers for an Underactuated Quadrotor
 
 A complete report is provided in the repository. Below are instructions to run MATLAB code blocks in Jupyter Notebook for reproducibility and interactive analysis.
 
 ---
 
-#### 1. Check Supported Python Versions for MATLAB Engine
+### 1. Check Supported Python Versions for MATLAB Engine
 Before installation, verify which Python versions are compatible with your MATLAB installation:
 
 #### 1.1. Navigate to the MATLAB root folder:
    ```
    cd /usr/local/MATLAB/R20XXx/extern/engines/python
    ```
-1.2. Open setup.py and check the _supported_versions variable. Example (MATLAB 2019):
+#### 1.2. Open setup.py and check the _supported_versions variable. Example (MATLAB 2019):
     ```
     _supported_versions = ['2.7', '3.6', '3.7']  # Python versions supported
     ```
