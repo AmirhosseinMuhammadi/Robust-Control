@@ -43,18 +43,19 @@ Install Jupyter and the MATLAB kernel:
   ```
 ## 5. Run Jupyter Notebook with MATLAB Kernel
 1. Launch Jupyter Notebook:
-  ```
-  jupyter notebook
-  ```
+   ```
+   jupyter notebook
+   ```
 2. Create a new notebook and select the MATLAB kernel.
 
 3. Run MATLAB code interactively:
-  ```
-  % Example: H∞ Controller Synthesis
-  G = tf(1, [1 2 1]);
-  K = hinfsyn(G, 1, 1);
-  bode(K);
-  ```
+   ```
+   % Example: H∞ Controller Synthesis
+   G = tf(1, [1 2 1]);
+   K = hinfsyn(G, 1, 1);
+   bode(K);
+   ```
+   
 4. Run notebook from this repository
    ```
    cd /"Robust Control"/
