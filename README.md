@@ -4,7 +4,7 @@ A complete report is provided in the repository. Below are instructions to run M
 
 ---
 
-## 1. Check Supported Python Versions for MATLAB Engine**
+## 1. Check Supported Python Versions for MATLAB Engine
 Before installation, verify which Python versions are compatible with your MATLAB installation:
 
 1. Navigate to the MATLAB root folder:
