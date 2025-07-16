@@ -39,7 +39,7 @@ Install the MATLAB Engine API from the MATLAB folder:
 Install Jupyter and the MATLAB kernel:
   ```
   pip install jupyter, ipykernel, matlab_kernel
-  pip install -r requirements.txt # If yoy're cloning this repository
+  pip install -r requirements.txt # If you're cloning this repository
   ```
 ### 5. Run Jupyter Notebook with MATLAB Kernel
 1. Launch Jupyter Notebook:
