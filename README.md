@@ -29,13 +29,13 @@ Isolate dependencies to avoid conflicts:
   matlab_venv\Scripts\activate     # Windows
   ```
 ## 4. Install Requirements
-### 4.1 MATLAB Engine API for Python
+### 4.1. MATLAB Engine API for Python
 Install the MATLAB Engine API from the MATLAB folder:
   ```
   cd /usr/local/MATLAB/R20XXx/extern/engines/python
   python setup.py install
   ```
-### 4.2 Jupyter and Dependencies
+### 4.2. Jupyter and Dependencies
 Install Jupyter and the MATLAB kernel:
   ```
   pip install jupyter, ipykernel, matlab_kernel
