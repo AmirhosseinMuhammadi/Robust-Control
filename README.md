@@ -55,3 +55,8 @@ Install Jupyter and the MATLAB kernel:
   K = hinfsyn(G, 1, 1);
   bode(K);
   ```
+4. Run notebook from this repository
+   ```
+   cd /"Robust Control"/
+   jupyter notebook notebook.ipynb
+   ```
