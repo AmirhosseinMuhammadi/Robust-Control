@@ -58,6 +58,6 @@ Install Jupyter and the MATLAB kernel:
    
 4. Run notebook from this repository
    ```
-   cd /"Robust Control"/
+   cd /"Robust Control"/attachments
    jupyter notebook notebook.ipynb
    ```
